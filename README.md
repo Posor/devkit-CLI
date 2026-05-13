@@ -1,5 +1,7 @@
 # 🛠️ devkit
 
+Ce projet a été réalisé dans le cadre du module de CLI durant le semestre 8 à Télécom Saint-Étienne. Ce projet, nommé devkit, est un toolkit en ligne de commande développé en Python. Il unifie la gestion de GitHub (issues, pull requests), l'automatisation des workflows Git et l'intégration de l'intelligence artificielle (Claude, Gemini, Copilot) au sein d'une interface terminal pour optimiser la productivité des développeurs.
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -224,3 +226,5 @@ devkit/
 ├── pyproject.toml
 └── README.md
 ```
+
+> Projet réalisé par Hakim Fayala, Mathéo Decrock & Paulin Gasquet
