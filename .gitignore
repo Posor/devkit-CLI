@@ -1,0 +1,31 @@
+# --- Environnement Virtuel ---
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# --- Fichiers de tests et brouillons ---
+test.txt
+test_video.txt
+test_gemini.py
+discovery.md
+scaffold.md
+test_video 2.txt
+fichier_demo.txt
+video.txt
+
+# --- Outils et IDE ---
+.vscode/
+.idea/
+.claude/
+.cursor/
+
+# --- Documentation et Sujet ---
+Modern_CLI_Project.pdf
+*.cast
+
+# --- Distribution / Build ---
+dist/
+build/
+*.egg-info/

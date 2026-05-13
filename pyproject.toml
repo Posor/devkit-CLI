@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "devkit"
+version = "0.1.0"
+dependencies = [
+    "typer[all]",
+    "rich",
+    "google-generativeai",
+]
+
+[project.scripts]
+devkit = "devkit.main:app"
